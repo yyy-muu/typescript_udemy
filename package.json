@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yyy-muu/typescript_udemy/issues"
   },
-  "homepage": "https://github.com/yyy-muu/typescript_udemy#readme"
+  "homepage": "https://github.com/yyy-muu/typescript_udemy#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
